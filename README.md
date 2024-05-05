@@ -1,16 +1,5 @@
-# expense_tracker_app
+# Meal App
 
-A new Flutter project.
+![1](https://github.com/ZaidAhmed404/meal-app-flutter/assets/123987830/9ff53f85-e08d-4d31-ad6b-e526c5284256)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://github.com/ZaidAhmed404/meal-app-flutter/assets/123987830/db3af602-2315-4148-b0a1-4849207b091c)
